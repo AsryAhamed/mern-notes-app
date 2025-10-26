@@ -331,16 +331,12 @@ Contributions are welcome! Please follow these steps:
 
 - None currently! Report issues [here](https://github.com/YOUR_USERNAME/notes-app/issues)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [Asry](https://github.com/AsryAhamed)
+- LinkedIn: [Asry Ahamed](https://www.linkedin.com/in/asry-ahamed-41664b218/)
+- Email: asry.bsc@gmail.com
 
 ## 🙏 Acknowledgments
 
