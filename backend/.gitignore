@@ -1,4 +1,4 @@
-# File: backend/.gitignore
 node_modules/
 .env
 *.log
+.vercel
